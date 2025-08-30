@@ -1,6 +1,6 @@
 # Hello! :)
 
-!(header.jpg)
+![alt text](header.jpg)
 
 ## I'm Ashlyn (she/her)! About me:
 
