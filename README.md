@@ -13,4 +13,7 @@
 ✿ I aspire to combine my passion for design and my technical skills to pursue a career in Web Design
 
 ✿ In my freetime, I practice digital art and acrylic painting
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 </div>
