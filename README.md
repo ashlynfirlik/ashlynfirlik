@@ -1,7 +1,6 @@
 <p style="text-align: center;">
   
 # Hello! :)
-</p>
 
 <img src="header3.jpg" alt="header3" width="400"/>
 ## I'm Ashlyn! About me:
@@ -14,3 +13,4 @@
 
 ✿ In my freetime, I practice digital art and acrylic painting
   
+</p>
