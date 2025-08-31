@@ -1,7 +1,6 @@
 # Hello! :)
 
-![alt text](header3.jpg)
-<img src="header3.jpg" alt="header3" width="200"/>
+<img src="header3.jpg" alt="header3" width="400"/>
 ## I'm Ashlyn! About me:
 
 ✿ I'm a second-year student at Arizona State University
