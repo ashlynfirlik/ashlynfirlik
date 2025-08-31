@@ -1,6 +1,6 @@
-<p align="center">
-  
-# Hello! :)
+ <div align="center">
+
+   # Hello! :)
 
 <img src="header3.jpg" alt="header3" width="400"/>
 ## I'm Ashlyn! About me:
@@ -12,5 +12,4 @@
 ✿ I aspire to combine my passion for design and my technical skills to pursue a career in Web Design
 
 ✿ In my freetime, I practice digital art and acrylic painting
-  
-</p>
+</div>
